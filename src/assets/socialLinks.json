@@ -22,5 +22,17 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:2667174454@qq.com"
+  },
+    {
+    "name": "Twitter",
+    "icon": "/images/icon/twitter.png",
+    "tip": "此路不通！！！",
+    "url": "https://twitter.com/"
+  },
+  {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "此路不通！！！",
+    "url": "https://t.me/"
   }
 ]
